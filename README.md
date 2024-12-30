@@ -1,4 +1,4 @@
 # demo1
 My First Git Repository
 <br>
-author -  Tushar Bhatt
+Author -  Tusu Bhatt
